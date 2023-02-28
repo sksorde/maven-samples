@@ -20,9 +20,10 @@
   </prerequisites>
          
   <scm>
-    <connection>scm:svn:http://svn.codehaus.org/mojo/tags/cobertura-maven-plugin-2.7</connection>
-    <developerConnection>scm:svn:https://svn.codehaus.org/mojo/tags/cobertura-maven-plugin-2.7</developerConnection>
-    <url>http://svn.codehaus.org/mojo/tags/cobertura-maven-plugin-2.7</url>
+    <connection>scm:git:git@github.com:sksorde/maven-samples.git</connection>
+    <developerConnection>scm:git:git@github.com:sksorde/maven-samples.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>http://github.com/sksorde/maven-samples</url>
   </scm>
          
   <reporting>
