@@ -160,10 +160,10 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:git@github.com:gabrielf/maven-samples.git</connection>
-    <developerConnection>scm:git:git@github.com:gabrielf/maven-samples.git</developerConnection>
+    <connection>scm:git:git@github.com:sksorde/maven-samples.git</connection>
+    <developerConnection>scm:git:git@github.com:sksorde/maven-samples.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/gabrielf/maven-samples</url>
+    <url>http://github.com/sksorde/maven-samples</url>
   </scm>
 
   <prerequisites>
